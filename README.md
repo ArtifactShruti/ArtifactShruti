@@ -8,6 +8,7 @@ I’m a digital forensics intern preparing for an L1 SOC role. I like questions 
 
 | Project | What you can explore |
 | --- | --- |
+| [VYRNEXIS AI](https://github.com/ArtifactShruti/vyrnexis-ai) | Defensive SOC and digital forensics workspace with tenant activity dashboards, evidence custody, analyst approvals, and a reproducible synthetic investigation. |
 | [Secure File Monitoring Tool](https://github.com/ArtifactShruti/SFMT-v1) | Python file-event monitoring with integrity checks, severity scoring, activity logs and quarantine. |
 | [PDF Malware Detection Tool](https://github.com/ArtifactShruti/PDF-Malware-Detection-Tool) | Static inspection of PDF objects with pikepdf and rule-based findings for document triage. |
 | [Cyber Tools Hub](https://github.com/ArtifactShruti/Cyber-Tools-Hub) | An HTML learning resource for exploring cybersecurity tools. |
@@ -25,4 +26,4 @@ I’m a digital forensics intern preparing for an L1 SOC role. I like questions 
 
 ### GitHub statistics
 
-The three featured repositories include two primarily written in Python and one in HTML. [View current contribution activity](https://github.com/ArtifactShruti#js-contribution-activity).
+[View current contribution activity](https://github.com/ArtifactShruti#js-contribution-activity).
